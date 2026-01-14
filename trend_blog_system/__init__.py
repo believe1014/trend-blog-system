@@ -1,0 +1,1 @@
+"""Trend blog system package."""
